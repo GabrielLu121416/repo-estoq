@@ -1,0 +1,9 @@
+C:\Users\o\Desktop\ArquivosEstoque\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\o\Desktop\ArquivosEstoque\bin\Debug\WindowsFormsApp4.exe
+C:\Users\o\Desktop\ArquivosEstoque\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\o\Desktop\ArquivosEstoque\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\o\Desktop\ArquivosEstoque\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\o\Desktop\ArquivosEstoque\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\o\Desktop\ArquivosEstoque\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\ArquivosEstoque\obj\Debug\WindowsFormsApp4.exe
+C:\Users\o\Desktop\ArquivosEstoque\obj\Debug\WindowsFormsApp4.pdb
